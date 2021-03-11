@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Egg Stats"
+        "text": "Cake Stats"
       }
     },
     {
@@ -753,13 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Goose Finance"
+        "text": "BSC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 577,
+        "text": "Runner"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Top 3 best DEFI app on Binance Smart Chain."
+        "text": "Across all Farms and Nests and Layers"
       }
     },
     {
@@ -1240,6 +1246,18 @@
       "data": {
         "stringId": 10005,
         "text": "Market Cap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10100,
+        "text": "Lootbox"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10101,
+        "text": "Rulebreaker"
       }
     }
   ],
